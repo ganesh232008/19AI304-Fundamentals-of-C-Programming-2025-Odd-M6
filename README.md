@@ -33,7 +33,11 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
+![WhatsApp Image 2025-12-26 at 8 07 15 PM (1)](https://github.com/user-attachments/assets/6d662c4e-1e8d-43ef-a60b-4b585a2f94f2)
+
 # Output:
+![WhatsApp Image 2025-12-26 at 8 07 16 PM](https://github.com/user-attachments/assets/6fb56e26-a05e-4395-a8b6-a1cfcfe78ece)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -79,7 +83,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+![WhatsApp Image 2025-12-26 at 8 07 16 PM (1)](https://github.com/user-attachments/assets/4cb12916-3f6b-4df3-9998-01adeb29c7de)
+![WhatsApp Image 2025-12-26 at 8 07 17 PM](https://github.com/user-attachments/assets/7f42e976-de19-40c2-b458-4507f55676ad)
+
 # Output:
+![WhatsApp Image 2025-12-26 at 8 07 17 PM (1)](https://github.com/user-attachments/assets/ae91f065-4a0c-47e2-811b-481e43d0924a)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -123,7 +132,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+![WhatsApp Image 2025-12-26 at 8 07 17 PM (2)](https://github.com/user-attachments/assets/3800bda9-5df3-48fd-aafa-2bb6d3246f22)
+![WhatsApp Image 2025-12-26 at 8 07 18 PM](https://github.com/user-attachments/assets/d6ee2555-561d-46ee-aa7c-482bd3ec05fd)
+
 # Output:
+![WhatsApp Image 2025-12-26 at 8 07 18 PM (1)](https://github.com/user-attachments/assets/9936ee58-d10b-45d9-8848-23b4ffab36ec)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -166,7 +180,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
+![WhatsApp Image 2025-12-26 at 8 07 18 PM (2)](https://github.com/user-attachments/assets/18e0b88c-b884-484d-8315-35633f325e2b)
+
 # Output:
+![WhatsApp Image 2025-12-26 at 8 07 19 PM](https://github.com/user-attachments/assets/d0151e9b-cf89-4ee2-88e2-00fa8acfe9d9)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -202,7 +220,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+![WhatsApp Image 2025-12-26 at 8 07 19 PM (1)](https://github.com/user-attachments/assets/9fe10bfb-3868-4cbd-880f-281aa77fb62b)
+
 # Output:
+![WhatsApp Image 2025-12-26 at 8 07 19 PM (2)](https://github.com/user-attachments/assets/f7296e71-bb9f-4059-9f4a-e5c6d14b4260)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
